@@ -1,0 +1,1 @@
+Sentiment analysis of tweets task will use tweets sent to six airlines and attempt to identify whether they are positive, negative or neutral. This is a natural language processing and a classification task.
